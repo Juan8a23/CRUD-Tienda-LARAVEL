@@ -1,3 +1,6 @@
+## CRUD Tienda LARAVEL
+CRUD simple para inventario de tienda escrito en LARAVEL utilizando el motor de plantillas Blade y con autenticación de usuarios.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
